@@ -1,6 +1,6 @@
 # Removing Biases from Molecular Representations via Information Maximization
 
-The repository contains the code for the `InfoCORE` method presented in the paper ***Removing Biases from Molecular Representations via Information Maximization**, Chenyu Wang, Sharut Gupta, Caroline Uhler, Tommi Jaakkola (2023)*
+The repository contains the code for the `InfoCORE` method presented in the paper ***[Removing Biases from Molecular Representations via Information Maximization](https://arxiv.org/abs/2312.00718)**, Chenyu Wang, Sharut Gupta, Caroline Uhler, Tommi Jaakkola (2023)*
 
 ![img](infocore.png)
 
