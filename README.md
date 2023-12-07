@@ -1,6 +1,6 @@
 # Removing Biases from Molecular Representations via Information Maximization
 
-The repository contains the code for the `InfoCORE` method presented in the paper ***[Removing Biases from Molecular Representations via Information Maximization](https://arxiv.org/abs/2312.00718)**, Chenyu Wang, Sharut Gupta, Caroline Uhler, Tommi Jaakkola (2023)*
+The repository contains the code for the `InfoCORE` method presented in the paper ***[Removing Biases from Molecular Representations via Information Maximization](https://arxiv.org/abs/2312.00718)**, Chenyu Wang, Sharut Gupta, Caroline Uhler, Tommi Jaakkola (2023)*. If you have any question, feel free to open an issue or reach out via email: wangchy@mit.edu.
 
 ![img](infocore.png)
 
@@ -47,3 +47,11 @@ The command for `InfoCORE` training can be found in `scripts/script_training.sh`
 3. Model evaluation
 
 The command for the molecule-phenotype retrieval task can be found in `scripts/script_evalacc.sh`; the command for the property prediction task can be found in `scripts/script_finetune.sh`.
+
+## Citation
+@article{wang2023removing,
+  title={Removing Biases from Molecular Representations via Information Maximization},
+  author={Wang, Chenyu and Gupta, Sharut and Uhler, Caroline and Jaakkola, Tommi},
+  journal={arXiv preprint arXiv:2312.00718},
+  year={2023}
+}
