@@ -50,10 +50,10 @@ The command for the molecule-phenotype retrieval task can be found in `scripts/s
 
 ## Citation
 ```
-@article{wang2023removing,
+@inproceedings{wang2023removing,
   title={Removing Biases from Molecular Representations via Information Maximization},
-  author={Wang, Chenyu and Gupta, Sharut and Uhler, Caroline and Jaakkola, Tommi},
-  journal={arXiv preprint arXiv:2312.00718},
+  author={Wang, Chenyu and Gupta, Sharut and Uhler, Caroline and Jaakkola, Tommi S},
+  booktitle={The Twelfth International Conference on Learning Representations},
   year={2023}
 }
 ``````
