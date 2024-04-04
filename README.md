@@ -13,7 +13,7 @@ bash env.sh
 ```
 
 ## Drug representation experiments
-The data used in the drug representation experiments can be downloaded from https://www.dropbox.com/scl/fo/bcj0jf5gacgiapwl33f37/h?rlkey=8eh3v1ilm6r2scgh3mn7syci5&dl=0.
+The data used in the drug representation experiments and pretrained models can be downloaded from https://www.dropbox.com/scl/fo/bcj0jf5gacgiapwl33f37/h?rlkey=8eh3v1ilm6r2scgh3mn7syci5&dl=0.
 
 ### Gene expression dataset (GE)
 1. Data preparation
